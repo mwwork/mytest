@@ -1,3 +1,3 @@
 <?php
-echo 'hi,b.php';
+echo '这是hi,b.php';
 ?>
