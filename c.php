@@ -1,4 +1,3 @@
 <?php
-$now=time();
-echo $now;
+//远程把C原来的都删掉
 ?>
