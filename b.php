@@ -1,6 +1,4 @@
 <?php
 echo '这是hi,b.php';
-echo 2;
-echo 3;
-//远程编辑了b,再次编辑后直接合并
+//在pre4把b也修改了，但是在fenzhi1没改
 ?>
