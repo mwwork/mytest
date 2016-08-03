@@ -6,4 +6,5 @@
 //我是pre4的，看看和fenzhi1的合并效果
 //我在fenzhi1把pre的合并过来后，手工修改了本冲突文件
 //我在master手工把fenzhi1合并过来
+//远程修改a和d
 ?>
